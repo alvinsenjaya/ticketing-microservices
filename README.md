@@ -57,3 +57,7 @@ cd view
 npm start
 ```
 5. Open your browser and browse http://localhost:3000
+
+
+### Snapshot of Application
+![Ticketing Application](https://i.imgur.com/lE2TzHt.png)
